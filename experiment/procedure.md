@@ -7,7 +7,7 @@
 
 3. Observe the block diagram and power on the circuit
 
-<img src="images/exp2_1.png"  />
+<img src="images/exp3_1.png"  />
 
 4. Select the amplitide(A) of the input sine wave signal(x(t)).
                             
