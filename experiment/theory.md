@@ -52,6 +52,7 @@ A \frac{|x|}{1+ln A} & |x|<\frac{1}{A}\\
 ..............(1)$$
 
 <p class="content"><center><img style="width:300px;height:312px;" src="images/pic-2.jpg" alt=""/></center></p>
+
 <p><b>&mu;-Law compander</b></p>
 <p class="heading-content">The United States and Japan use m-law companding. In that, the linear sample values are limited to 13 magnitude bits, the m-law compression is defined by Equation 2, where &mu; is the compression parameter (&mu; =255 in the U.S. and Japan) and x is the normalized signal to be compressed.</p>
 
