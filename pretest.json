@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In uniform quantization process",
+      "answers": {
+        "a": "The step size remains same",
+        "b": "Step size varies according to the values of the input signal",
+        "c": "The quantizer has linear characteristics",
+        "d": "Both a and c are correct"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The process of converting the analog sample into discrete form is called",
+      "answers": {
+        "a": "Modulation",
+        "b": "Multiplexing",
+        "c": "Quantization",
+        "d": "Sampling"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The characteristics of compressor in μ-law companding are",
+      "answers": {
+        "a": "Continuous in nature",
+        "b": "Logarithmic in nature",
+        "c": "Linear in nature",
+        "d": "Discrete in nature"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The modulation techniques used to convert analog signal into digital signal are",
+      "answers": {
+        "a": "Pulse code modulation",
+        "b": "Delta modulation",
+        "c": "Adaptive delta modulation",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
