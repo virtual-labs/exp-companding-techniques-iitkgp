@@ -1,0 +1,124 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The sequence of operations in which PCM is done is",
+      "answers": {
+        "a": "Sampling, quantizing, encoding",
+        "b": "Quantizing, encoding, sampling",
+        "c": "Quantizing, sampling, encoding",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In PCM, the parameter varied in accordance with the amplitude of the modulating signal is",
+      "answers": {
+        "a": "Amplitude",
+        "b": "Frequency",
+        "c": "Phase",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "One of the disadvantages of PCM is",
+      "answers": {
+        "a": "It requires large bandwidth",
+        "b": "Very high noise",
+        "c": "Cannot be decoded easily",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The expression for bandwidth BW of a PCM system, where v is the number of bits per sample and fm is the modulating frequency, is given by",
+      "answers": {
+        "a": "BW ≥ vfm",
+        "b": "BW ≤ vfm",
+        "c": "BW ≥ 2 vfm",
+        "d": "BW ≥ 1/2 vfm"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In Delta modulation,",
+      "answers": {
+        "a": "One bit per sample is transmitted",
+        "b": "All the coded bits used for sampling are transmitted",
+        "c": "The step size is fixed",
+        "d": "Both a and c are correct"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In digital transmission, the modulation technique that requires minimum bandwidth is",
+      "answers": {
+        "a": "Delta modulation",
+        "b": "PCM",
+        "c": "DPCM",
+        "d": "PAM"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In Differential Pulse Code Modulation techniques, the decoding is performed by",
+      "answers": {
+        "a": "Accumulator",
+        "b": "Sampler",
+        "c": "PLL",
+        "d": "Quantizer"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
