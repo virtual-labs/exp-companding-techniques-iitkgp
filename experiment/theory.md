@@ -43,21 +43,4 @@ This experiment enables a student to learn
                                 countries except Japan, Canada and North America. Limiting the linear sample values to 12 magnitude bits, the A-law 
                                 compression is defined by Equation 1, where A is the compression parameter (A=87.7 in Europe), and x is the normalized 
                                 signal to be compressed.
-                            <p style="text-align:center">`y=sgn{((A|x|/(1+ln A),|x|<1/A),(1+ln(A|x|)/(1+ln(A)),1/A<=|x|<=1)) ....(1)`</p class="content"><center><img style="width:300px;height:312px;" src="images/pic-2.jpg" alt=""/></center></p>
-                            <p><b>&mu;-Law compander</b></p>
-                            <p class="heading-content">The United States and Japan use m-law companding. In that, the linear sample values are limited 
-                                to 13 magnitude bits, the m-law compression is defined by Equation 2, where &mu; is the compression parameter (&mu; =255 in 
-                                the U.S. and Japan) and x is the normalized signal to be compressed.</p>
-                            <p style="text-align:center">`y=sgn(x)ln(1+mu|x|)/(ln(1+mu)), -1<=x<=1....(2)`</p>
-                            <p class="heading-content">The companding process for m-law is similar to that of A-law. The major differences are: (i) 
-                                &mu;-law encoders typically operate on linear 13-bit magnitude data, as opposed to 12-bit magnitude data with A-law, 
-                                (ii) before chord determination a bias value of 33 is added to the absolute value of the linear input data to simplify 
-                                the chord and step calculations, (iii) the definition of the sign bit is reversed, and (iv) the inversion pattern is 
-                                applied to all bits in the 8-bit code</p>
-                            <p class="content" ><center><img style="width:302px;height:312px;" src="images/pic-3.jpg" alt="" />
-                            <p class="heading-content">In this experiment, we use this equation and allow you (the students) to choose number of bits and understand how A-law companding is used in quantization. The aim is to make you understand non-uniform quantization and not the format of the data presentation.</p>
-                        </div>
 
-
- <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js"></script>    
- 
